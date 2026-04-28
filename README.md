@@ -16,6 +16,7 @@ This project predicts the price of used cars based on their characteristics. It 
 - `Exploratory_data_analysis_cars.ipynb` → Notebook for EDA and visualization.
 - `data/` → Dataset(s) used for training and analysis.
 - `models/` → Trained models and prediction scripts.
+- `car_app` → make the endpoint 
 - `README.md` → Project documentation.
 
 ## 🔑 Key Features
